@@ -1,0 +1,22 @@
+.Main{
+    width: 1000px;
+    height: 220px;
+    display: flex;
+    margin: 20px auto;
+    background-color: rgb(245, 232, 232);
+    box-shadow: 0px 0px 5px black;
+}
+
+.menu{
+    width: 70%;
+    padding-left: 20px;
+}
+
+.Image{
+   width: 30%;
+}
+
+.Image > img{
+    width: 300px;
+    height: 220px;
+}
